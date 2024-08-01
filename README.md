@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey there! I'm Nihareeka Mohanty🌟
 
-<!--
-**Nihamo/Nihamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space! I’m a tech enthusiast who loves crafting code and exploring new tech realms.
 
-Here are some ideas to get you started:
+## My Toolbelt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python:** Weaving together elegant and efficient solutions.
+- **Java:** Object-oriented programming and enterprise solutions.
+- **R:** Statistical analysis and data visualization.
+- **C:** Familiar with the basics of system-level programming and fundamental concepts.
+- **MySQL:** Database design, management, and optimization.
+
+🚀 Let’s build something amazing together!
