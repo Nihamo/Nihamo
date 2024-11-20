@@ -11,7 +11,7 @@ Welcome to my GitHub space! I’m a tech enthusiast who loves crafting code and 
 
 ## Achievements
 - got 10 sgpa in 2nd sem
-- 4 star ranker in HackerRank(for python). 😎
+- 4 star ranker in HackerRank(for python). 
 
 - recently bagged 2nd prize in "Brand It" competition( a brand logo competition ). 😁
 I’m open to collaborations and welcome opportunities to work together on innovative projects.  :)
