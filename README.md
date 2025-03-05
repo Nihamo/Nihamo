@@ -8,6 +8,7 @@ Welcome to my GitHub space! I’m a tech enthusiast who loves crafting code and 
 - **R:** Statistical analysis and data visualization.
 - **C:** Familiar with the basics of system-level programming and fundamental concepts.
 - **MySQL:** Database design, management, and optimization.
+- **JavaScript:** Powering seamless user experiences with dynamic and responsive web solutions.
 
 ## Achievements
 - got 10 sgpa in 2nd sem
